@@ -1,0 +1,140 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  background-color: color(from color srgb r g b);
+  /* background-color: white,aqua,bisque,blueviolet; */
+  /* background-color: darkgray; */
+  /* position: relative;
+  display: flex;
+   */
+
+}
+
+* {
+  position: relative, fixed;
+  position: static;
+}
+
+#h {
+  color: rgb(0, 38, 255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-around;
+  flex-direction: column;
+  padding-top: 60px;
+  padding-right: 50px;
+  /* padding-right: 30px;
+padding-bottom: 50px;
+padding-right: 50px; */
+  /* right: 60px;
+left: 60px; */
+
+}
+
+#img{
+  height: 600px;
+  /* width: 10px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-around;
+  flex-direction: column;
+  padding-right: 600px;
+  padding-left: 600px;
+  padding-bottom: 15px;
+  /* margin-top: 100px; */
+  /* margin-right: 100px; */
+  /* margin-left: 40px; */
+  padding-top: 400px;
+}
+
+h2 {
+  justify-content: center;
+  align-items: center;
+  margin-left: 390px;
+  font-size: medium;
+  padding-right: 10px;
+
+}
+
+#ai1 {
+  background-color: antiquewhite;
+  /* background-color : rgb(221, 6, 6); */
+  background-position: 100em;
+  /* inset-inline: initial;*/
+  text-align: start;
+  color-interpolation-filters: inherit;
+  /* background-position: 199px; */
+  /* background-size: 10rem; */
+  /* style="height: 50px;" */
+  height: 50px;
+  flex-direction: column;
+  /* -webkit-background-composite: padding; */
+  /* text-wrap: inherit; */
+  width: 300px;
+
+}
+
+#user1 {
+  background-color: rgba(0, 0, 255, 0.452);
+  text-align: end;
+  height: 30px;
+  width: max-content;
+  margin-left: 1260px;
+  text-align: center;
+
+
+}
+
+#ai2 {
+  background-color: antiquewhite;
+  height: 60px;
+  width: 450px;
+
+}
+
+#a {
+  color: black;
+  /* text-align: center; */
+  size-adjust: inherit;
+  field-sizing: content;
+  justify-content: space-around;
+  align-items: center;
+  justify-content: center;
+  /* margin-left: 350px; */
+  padding-left: 200px;
+  width: 1300px;
+  height: 30px;
+}
+
+#a1 {
+  color: blue;
+  background-color: blue;
+
+}
+
+* {
+  flex-wrap: wrap;
+}
+
+#button {
+  /* background-color: rgba(51, 51, 224, 0.24); */
+  /* backdrop-filter:blue; */
+  /* background-clip:blue;  */
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  /* color: transparent; */
+  width: 30px;
+  font-weight: 9000;
+  font-size: large;
+  max-width: fit-content;
+  max-height: max-content;
+
+}
+
+#lebel {
+  color: blue;
+  max-height: max-content;
+}
